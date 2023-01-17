@@ -8,10 +8,8 @@ This is where I will be creating the markdown
 - This project is about
 - This index.html 
 
-# Heading 
-
-Jane and George's fantastic website
+# Jane and George's fantastic website
 - Mash up between two fantasy worlds
 - Appreciation of V
 
-#1 Basic coders
+# Basic coders
